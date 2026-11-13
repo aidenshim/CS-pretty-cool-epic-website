@@ -1,10 +1,9 @@
-img {
-width: 634px;
+#cool-image {
+width: 684px;
 }
     
 body{
-text-align: center;
 font-family: 'Arial';
-background: yellow;
-color: red;
+background: rgb(179, 105, 9);
+color: blanchedalmond;
 }
